@@ -1,0 +1,4 @@
+error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘{’ token
+error: invalid conversion from ‘int’ to ‘const char*’ [-fpermissive]
+error: use of undeclared identifier ‘variable_name’
+warning: control reaches end of non-void function [-Wreturn-type]
